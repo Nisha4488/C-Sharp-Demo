@@ -1,0 +1,9 @@
+/Users/troya/csharp-playground/showcase/bin/Debug/netcoreapp1.1/showcase.deps.json
+/Users/troya/csharp-playground/showcase/bin/Debug/netcoreapp1.1/showcase.runtimeconfig.json
+/Users/troya/csharp-playground/showcase/bin/Debug/netcoreapp1.1/showcase.runtimeconfig.dev.json
+/Users/troya/csharp-playground/showcase/bin/Debug/netcoreapp1.1/showcase.dll
+/Users/troya/csharp-playground/showcase/bin/Debug/netcoreapp1.1/showcase.pdb
+/Users/troya/csharp-playground/showcase/obj/Debug/netcoreapp1.1/showcase.csproj.CoreCompileInputs.cache
+/Users/troya/csharp-playground/showcase/obj/Debug/netcoreapp1.1/showcase.AssemblyInfo.cs
+/Users/troya/csharp-playground/showcase/obj/Debug/netcoreapp1.1/showcase.dll
+/Users/troya/csharp-playground/showcase/obj/Debug/netcoreapp1.1/showcase.pdb
